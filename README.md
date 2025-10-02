@@ -1,7 +1,7 @@
 PROJECT OBJECTIVE:<br>
 To analyze social media performance across multiple platforms using Power BI and provide clear insights on engagement, content effectiveness, and platform trends.
 
-DATASET:<a href="https://github.com/sherinstella/Social-Media-Trend-Analysis/blob/main/Social_Media_Trends.csv"></a>
+DATASET:<a href="github.com/sherinstella/Social-Media-Trend-Analysis/blob/main/Social_Media_Trends.csv"></a>
 
 DASHBOARD:<a href="https://github.com/sherinstella/Social-Media-Trend-Analysis/blob/main/Screenshot%202025-10-02%20093453.png"></a>
 
