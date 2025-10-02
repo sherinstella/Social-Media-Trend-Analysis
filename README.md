@@ -13,7 +13,7 @@ Created KPIs (views, likes, shares, engagement rate, etc.).<br>
 Built an interactive dashboard using slicers and visuals.<br>
 Used DAX for key ratios (like-to-view, share-to-view,comment-to-view).<br>
 
-QUESTION KPI'S:
+QUESTION KPI'S:<br>
 Which content types perform best?<br>
 How do platforms compare in engagement?<br>
 What months or campaigns had the most reach?<br>
